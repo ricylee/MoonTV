@@ -81,9 +81,10 @@
       "api" : " https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
-    "xmm"： {
+    "xmm": {
       "api" : " https://zy.xmm.hk/api.php/provide/vod",
       "name" :"小猫咪资源"
+    }
     }
   }
 }
