@@ -79,9 +79,9 @@
     },
     "lzi" : {
       "api" : " https://cj.lziapi.com/api.php/provide/vod",
-      “名称”：“量子资源站”
+      "name": "量子资源站"
     },
-    “小毛米”：{
+    “xmm”：{
       "api" : " https://zy.xmm.hk/api.php/provide/vod",
       "name" : "小猫咪资源"
     }
